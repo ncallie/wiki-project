@@ -1,5 +1,6 @@
 # wiki-project
- - Не работает из под Windows (только Linux, Mac)
+https://drive.google.com/file/d/13tzvAAExHgWxZODXu6vkSH8pzQx_RfCL/view?usp=sharing
+- Ошибка, не работает из под Windows (только Linux, Mac)
 
 - Настройка файла конфигурации `/Wiki/src/main/resources/application.properties`
   - указать данные для подключения к БД `url` `username` `password`
