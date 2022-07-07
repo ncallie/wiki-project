@@ -5,8 +5,8 @@
   - указать путь до папки хранения dump files `upload.path`
 
 - Запуск
-  - С помощью Maven
-    -  `mvn clean package`
+  - С помощью Maven из корневой директории проекта
+    - `mvn clean package`
     - `java -jar target/Wiki-0.0.1-SNAPSHOT.jar`
     
   - С помощью среды разработки IntelliJ IDEA
