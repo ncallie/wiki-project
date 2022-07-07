@@ -1,4 +1,5 @@
 # wiki-project
+ - Не работает из под Windows (Linux, Mac)
 
 - Настройка файла конфигурации `/Wiki/src/main/resources/application.properties`
   - указать данные для подключения к БД `url` `username` `password`
